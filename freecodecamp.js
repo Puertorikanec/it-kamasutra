@@ -218,3 +218,7 @@ const wordBlanks = myNoun + " " + myVerb + " " + myAdjective + " " + myAdverb;
 // конкатинация строк с пробелами в предложении
 
 // 38
+const myArray = ["Pavel", 13];
+// массив со строкой и числом
+
+// 39
