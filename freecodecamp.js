@@ -167,4 +167,8 @@ myStr += " This is the second sentence.";
 // долго не мог понять а не хватало пробела во втором предложении
 
 // 29
+const myName = "Pavel";
+const myStr = "My name is " + myName + " and I am well!";
+
+// 30
 
