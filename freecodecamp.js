@@ -176,3 +176,9 @@ let myStr ="Learning to code is";
 myStr += someAdjective;
 
 // 31
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+// Only change code below this line
+lastNameLength = lastName.length;
+// 32
