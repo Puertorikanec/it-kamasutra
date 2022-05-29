@@ -208,3 +208,13 @@ const lastLetterOfLastName = lastName[lastName.length - 1];
 const lastName = "Lovelace";
 const secondToLastLetterOfLastName = lastName[lastName.length - 2];
 // нахождение предпоследнего символа строки
+
+// 37
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+const wordBlanks = myNoun + " " + myVerb + " " + myAdjective + " " + myAdverb;
+// конкатинация строк с пробелами в предложении
+
+// 38
