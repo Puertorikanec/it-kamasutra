@@ -96,3 +96,17 @@ const quotient = 4.4 / 2.0;
 const remainder = 11 % 3;
 
 // 20
+let a = 3;
+let b = 17;
+let c = 12;
+
+// Only change code below this line
+a += 0;
+a = a + 12;
+b += 0;
+b = 9 + b;
+c+= 0;
+c = c + 7;
+// так и не понял зачем это нужно
+
+// 21
