@@ -35,4 +35,15 @@ c = c + " String!";
 // сделанно применен оператор сложения к переменным а и b к строке с склеивание строк
 
 // 7
+// camelCase
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+// Variable assignments
+studlyCapVar = 10;
+properCamelCase = "A String";
+titleCaseOver = 9000;
+// имя переменной используя camelCase
+
+// 8
 
