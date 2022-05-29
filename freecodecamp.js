@@ -195,4 +195,8 @@ myStr = "Hello World";
 // изменить строку по буквенно нельзя только добавить новую строку
 
 // 34
+const lastName = "Lovelace";
+const thirdLetterOfLastName = lastName[2];
+// нахождения третьегосимвола строки
 
+// 35
