@@ -149,3 +149,6 @@ c /= 1;
 c = c / 11;
 
 // 24
+const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
+
+// 25
