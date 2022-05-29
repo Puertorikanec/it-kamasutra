@@ -162,4 +162,9 @@ const myStr = "This is the start." + " This is the end.";
 // склеивание строк
 
 // 28
+let myStr = "This is the first sentence.";
+myStr += " This is the second sentence.";
+// долго не мог понять а не хватало пробела во втором предложении
+
+// 29
 
