@@ -70,4 +70,9 @@ const product = 8 * 10;
 const quotient = 66 / 33;
 
 // 14
+let myVar = 87;
 
+// прибавлениее единицы
+myVar++;
+
+// 15
