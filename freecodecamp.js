@@ -46,4 +46,9 @@ titleCaseOver = 9000;
 // имя переменной используя camelCase
 
 // 8
+let catName = "Oliver";
+let catSound = "Meow!";
+// тут я узнал про переменную let 
+
+// 9
 
