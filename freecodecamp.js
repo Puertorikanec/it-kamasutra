@@ -51,4 +51,10 @@ let catSound = "Meow!";
 // тут я узнал про переменную let 
 
 // 9
+const FCC = "freeCodeCamp"; // изменил на uppercase имя переменной
+let fact = "is cool!"; // let так как предположительно перемення будет изменятся далее
+fact = "is awesome!";
+console.log(FCC, fact); // вевод в консоль
+
+// 10
 
