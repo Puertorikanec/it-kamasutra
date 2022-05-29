@@ -171,4 +171,8 @@ const myName = "Pavel";
 const myStr = "My name is " + myName + " and I am well!";
 
 // 30
+const someAdjective = "Pavel";
+let myStr ="Learning to code is";
+myStr += someAdjective;
 
+// 31
