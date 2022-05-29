@@ -123,3 +123,16 @@ c -= 0;
 c = c - 1;
 
 // 22
+let a = 5;
+let b = 12;
+let c = 4.6;
+
+// Only change code below this line
+a *= 1; 
+a = a * 5;
+b *= 1;
+b = 3 * b;
+c *= 1;
+c = c * 10;
+
+// 23
