@@ -57,4 +57,8 @@ fact = "is awesome!";
 console.log(FCC, fact); // вевод в консоль
 
 // 10
+const sum = 10 + 10;
+// изменение значения константы
+
+// 11
 
