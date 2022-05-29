@@ -110,3 +110,16 @@ c = c + 7;
 // так и не понял зачем это нужно
 
 // 21
+let a = 11;
+let b = 9;
+let c = 3;
+
+// Only change code below this line
+a -= 0;
+a = a - 6;
+b -= 0;
+b = b - 15;
+c -= 0;
+c = c - 1;
+
+// 22
