@@ -93,3 +93,6 @@ const quotient = 4.4 / 2.0;
 // математика
 
 // 19
+const remainder = 11 % 3;
+
+// 20
