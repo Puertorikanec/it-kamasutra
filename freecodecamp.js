@@ -190,3 +190,9 @@ const lastName = "Lovelace";
 firstLetterOfLastName = lastName[0];
 
 // 33
+let myStr = "Jello World";
+myStr = "Hello World"; 
+// изменить строку по буквенно нельзя только добавить новую строку
+
+// 34
+
